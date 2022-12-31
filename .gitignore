@@ -74,3 +74,5 @@ pip-delete-this-directory.txt
 
 # Environments
 .venv 
+data/
+.idea
